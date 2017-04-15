@@ -1,5 +1,8 @@
 # Scraping Proxy Tor
 
+Tutorial en Español: https://jarroba.com/scraping-anonimo-la-red-tor/
+
+Tutorial in English: https://jarroba.com/anonymous-scraping-by-tor-network/
 
 Python, Tor, Stem, Privoxy: with this tools, allow requests new connections via 
 Tor for obtain new IP addresses.
