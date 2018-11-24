@@ -120,7 +120,7 @@ sudo vim /etc/privoxy/config
 and enable **forward-socks5** as follows:
 	
 ```
-forward-socks5 / 127.0.0.1:9050
+forward-socks5 / 127.0.0.1:9050 .
 ```
 
 Restart **privoxy** after making the change to the configuration file.
