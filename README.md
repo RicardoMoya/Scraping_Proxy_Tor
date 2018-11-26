@@ -97,6 +97,9 @@ Tor Controller, letting us send and receive commands to and from the Tor Control
 
 ```
 sudo apt-get install python-stem
+
+# for python3
+sudo apt-get install python3-stem
 ```
 
 ### privoxy
